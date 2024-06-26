@@ -1,0 +1,1 @@
+A fully automated script for creating an Ubuntu virtual machine for Parallels Desktop on Mac M1 (ARM64 architecture)
